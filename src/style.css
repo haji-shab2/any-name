@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body{
+  text-align: center;
+  align-items: center;
+}
+.form{
+background-color: rgb(219, 212, 212);
+box-shadow: 0 0 10% black,0 0 50% black;
+height:600px;
+width: 600px;
+}
