@@ -1,6 +1,6 @@
 <template>
     <h1>'{{store.FullName }}' and rollNumber is{{store.rollNo }}</h1>
-
+<h2>Ali is a good boy</h2>
 </template>
 <script setup>
 import {  ref } from 'vue';
